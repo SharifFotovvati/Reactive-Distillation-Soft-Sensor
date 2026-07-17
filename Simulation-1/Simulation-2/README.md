@@ -1,5 +1,0 @@
-- Aspen Plus simulation
-- Aspen Dynamics simulation
-- Deep Learning models
-- Dataset
-- Figures
